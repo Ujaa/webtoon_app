@@ -9,16 +9,24 @@
 
 ### 1. 네이버에서 오늘 연재 중인 웹툰 보여주기
 
+<p align="center">
 <img src='https://github.com/Ujaa/webtoon_app/assets/40076944/94f00a57-f8e1-43d4-b343-fe066224abb8' width='300'/>
+</p>
 
 ### 2. 웹툰의 상세 정보 보여주기
 
+<p align="center">
 <img src='https://github.com/Ujaa/webtoon_app/assets/40076944/6a77380e-ef5d-42c5-998e-46d704fac4a4' width='300'/>
+</p>
 
 ### 3. 웹툰 회차 내용 보여주기
 
+<p align="center">
 <img src='https://github.com/Ujaa/webtoon_app/assets/40076944/4f251dd4-1ef2-4d1a-9c2b-807d5762b619' width='300'/>
+</p>
 
 ### 4. 관심 웹툰 지정하기
 
+<p align="center">
 <img src='https://github.com/Ujaa/webtoon_app/assets/40076944/2aedc1b3-001f-43f3-81bd-7b33adcd902b' width='300'/>
+</p>
